@@ -1,4 +1,5 @@
-![logo](https://github.com/Mr3lishOfficiel/site-salon-de-coiffure/assets/152335477/55535d2d-4067-459e-922f-544084816213)
+
+![logo](https://github.com/Mr3lishOfficiel/site-salon-de-coiffure/assets/152335477/0e049de5-634a-4224-be31-99ed0757a2bb)
 
 
 1. Site salon de coiffure
