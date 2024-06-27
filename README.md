@@ -1,7 +1,8 @@
+                                                                                                ![logo](https://github.com/Mr3lishOfficiel/site-salon-de-coiffure/assets/152335477/4039d8d2-2cc2-4e80-99de-8a26e77a1f82)
+
 1. Site salon de coiffure
 
    
-![logo](https://github.com/Mr3lishOfficiel/site-salon-de-coiffure/assets/152335477/4039d8d2-2cc2-4e80-99de-8a26e77a1f82)
 
    
 1.1 Contexte du Projet
