@@ -1,6 +1,9 @@
 1. Site salon de coiffure
 
    
+![logo](https://github.com/Mr3lishOfficiel/site-salon-de-coiffure/assets/152335477/4039d8d2-2cc2-4e80-99de-8a26e77a1f82)
+
+   
 1.1 Contexte du Projet
 Le secteur de la coiffure nécessite une gestion efficace des rendez-vous, des prestations et des finances. Avec la digitalisation croissante, il est crucial pour les salons de coiffure de disposer d'outils modernes et sécurisés. Ce projet vise à développer une application de gestion dédiée aux salons de coiffure, garantissant la sécurité des données des clients.
 
